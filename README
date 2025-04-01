@@ -1,3 +1,4 @@
+> Text that is a quote
 # **Project Overview**
 This project provides an interactive visualization of global events data, including earthquakes, and other significant occurrences such as natural disasters, weather patterns, and more. The data is sourced from various public APIs, and the visualizations are created using Tableau. The interactive maps and time-series animations help users explore event distributions, intensities, and trends over time.
 
