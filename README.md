@@ -13,7 +13,6 @@ The project uses data from various sources, such as:
 - **USGS Earthquake Data**: Earthquake data sourced from the US Geological Survey (USGS).
 - **Other APIs**: Future extensions will include other event data like hurricanes, volcanic activity, etc.
 - **Custom Datasets**: Manually added datasets for non-seismic events.
-- **Example Data Source for Earthquakes**: USGS Earthquake Data
 
 ## **Tech Stack**
 - **Tableau**: For creating interactive data visualizations and animations.
